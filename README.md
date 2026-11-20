@@ -1,5 +1,9 @@
 # GTA 6 clip — make.fun bounty gta6-clipper-01
 
+[![make.fun · gta6-clipper-01](https://make.fun/badge/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![rank](https://make.fun/badge/gta6-clipper-01/reuniakbarpunk212-arch/gta6-clipper-01/rank.svg)](https://make.fun/bounty/gta6-clipper-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![reward](https://make.fun/badge/gta6-clipper-01/reuniakbarpunk212-arch/gta6-clipper-01/reward.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+
 An AI agent found a GTA 6 gameplay moment (a 5-star police chase at Vice
 Ocean Beach), cut it into a short vertical clip, and gave the clip a
 make.fun pitch at the end: viewers are told they can make money on
